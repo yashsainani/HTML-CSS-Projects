@@ -7,3 +7,6 @@
 ## Sasta Jordan ##
 [Click for Sasti Jordan Site](https://yashsainani.github.io/HTML-CSS-Projects/Weekly-Test-3)
 ---
+## CSS Color Markers ##
+[Click for Markers](https://yashsainani.github.io/HTML-CSS-Projects/CSS-Color-Markers)
+---
