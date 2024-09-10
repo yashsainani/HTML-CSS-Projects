@@ -16,3 +16,6 @@
 ## Nutrition Sticker ##
 [Click for Nutrition Label](https://yashsainani.github.io/HTML-CSS-Projects/Nutrition)
 ---
+## Typography ##
+[Click for Typography site](https://yashsainani.github.io/HTML-CSS-Projects/Typography)
+---
