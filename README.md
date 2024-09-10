@@ -13,3 +13,6 @@
 ## Construction Site ##
 [Click for Construction Site](https://yashsainani.github.io/HTML-CSS-Projects/Construction-Site)
 ---
+## Nutrition Sticker ##
+[Click for Nutrition Label](https://yashsainani.github.io/HTML-CSS-Projects/Nutrition)
+---
