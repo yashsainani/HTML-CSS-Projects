@@ -19,3 +19,5 @@
 ## Typography ##
 [Click for Typography site](https://yashsainani.github.io/HTML-CSS-Projects/Typography)
 ---
+## Shoe Page ##
+[Click for Creative Shoe Page](https://yashsainani.github.io/HTML-CSS-Projects/)
