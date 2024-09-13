@@ -25,3 +25,6 @@
 ## Coffee Ki Thadi ##
 [Click for Coffee menu](https://yashsainani.github.io/HTML-CSS-Projects/Coffee-Site/)
 ---
+## Animation Site ##
+[Click for Sasti Dhoom](https://yashsainani.github.io/HTML-CSS-Projects/Animation-Site/)
+---
