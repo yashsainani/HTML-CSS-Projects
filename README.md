@@ -34,3 +34,6 @@
 ## Billi-Gram ##
 [Click for Billi-Book](https://yashsainani.github.io/HTML-CSS-Projects/Billi-Lelo/)
 ---
+## Grid-Layout-Site ##
+[Click for responsive site](https://yashsainani.github.io/HTML-CSS-Projects/Grid-Message-Template/)
+---
