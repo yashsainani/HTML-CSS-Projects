@@ -37,3 +37,6 @@
 ## Grid-Layout-Site ##
 [Click for responsive site](https://yashsainani.github.io/HTML-CSS-Projects/Grid-Message-Template/)
 ---
+## Grid-Layout-Magazine ##
+[Click for the Magazine](https://yashsainani.github.io/HTML-CSS-Projects/Grid-Magazine/)
+---
